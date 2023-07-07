@@ -16,20 +16,6 @@ API](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab3)
 [Lab 4 : Use Lifecycle Controls to Version Your
 API](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab4)
 
-[Lab 5: Advanced API
-Assembly](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab5)
-
-[Lab 6: Working with API
-Products](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab6)
-
-[Lab 7: The Consumer
-Experience](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab7)
-
-[Lab 8: Create and test GraphQL Proxy
-API](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab8)
-
-[Lab 9: Creating GraphQL API with StepZen](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab9)
-
 **APIC Workshop Lab Resources**
 
 [hotelreview.yaml](https://github.com/glenchristian/APICv10/blob/main/hotelreview.yaml)
