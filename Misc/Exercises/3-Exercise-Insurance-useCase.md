@@ -71,6 +71,6 @@ API Connect instance. Note the following requirements and steps:
 
 2) Instructor will provide credentials for the 'developer' user in openldap.
 
-3) [term_plans.yaml](https://github.com/glenchristian/APICv10/blob/main/Misc/Exercises/term_plans.yaml) 
+3) [term_plans.yaml](https://github.com/glenchristian/APICv10-Lab/blob/main/Misc/Exercises/term_plans.yaml) 
    can be downloaded from here.
 

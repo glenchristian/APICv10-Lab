@@ -32,19 +32,19 @@ you reserve the instance. Use Google Chrome, Firefox or Microsoft Edge
 to access the cluster using the credentials supplied. Make sure you
 login using Common Services registry.]**
 
-[Lab 0 : Get Started](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab0)
+[Lab 0 : Get Started](https://github.com/glenchristian/APICv10-Lab/tree/main/instructions/Lab0)
 
 [Lab 1 : Create and Secure an API to Proxy an Existing REST Web
-service](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab1)
+service](https://github.com/glenchristian/APICv10-Lab/tree/main/instructions/Lab1)
 
 [Lab 2 : The Developer Portal
-Experience](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab2)
+Experience](https://github.com/glenchristian/APICv10-Lab/tree/main/instructions/Lab2)
 
 [Lab 3 : Add OAuth Security to your
-API](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab3)
+API](https://github.com/glenchristian/APICv10-Lab/tree/main/instructions/Lab3)
 
 [Lab 4 : Use Lifecycle Controls to Version Your
-API](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab4)
+API](https://github.com/glenchristian/APICv10-Lab/tree/main/instructions/Lab4)
 
  Login to API Connect Cloud Manager
 ===========================================================================================
@@ -142,5 +142,5 @@ Throughout the tutorial, you explored the key takeaways:
 
 -   Create a Provider Organization.
 
-Continue the APIC Workshop! Go to [APIC Workshop Lab 1 - Create and Secure an API](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab1) to
+Continue the APIC Workshop! Go to [APIC Workshop Lab 1 - Create and Secure an API](https://github.com/glenchristian/APICv10-Lab/tree/main/instructions/Lab1) to
 learn how to create and secure a new API using API Connect.
