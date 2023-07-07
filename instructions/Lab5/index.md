@@ -39,33 +39,33 @@ you reserve the instance. Use Google Chrome, Firefox or Microsoft Edge
 to access the cluster using the credentials supplied. Make sure you
 login using Common Services registry.]**
 
-[Lab 0 : Get Started](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab0)
+[Lab 0 : Get Started](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab0)
 
 [Lab 1 : Create and Secure an API to Proxy an Existing REST Web
-service](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab1)
+service](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab1)
 
 [Lab 2 : The Developer Portal
-Experience](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab2)
+Experience](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab2)
 
 [Lab 3 : Add OAuth Security to your
-API](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab3)
+API](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab3)
 
 [Lab 4 : Use Lifecycle Controls to Version Your
-API](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab4)
+API](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab4)
 
 [Lab 5: Advanced API
-Assembly](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab5)
+Assembly](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab5)
 
 [Lab 6: Working with API
-Products](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab6)
+Products](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab6)
 
 [Lab 7: The Consumer
-Experience](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab7)
+Experience](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab7)
 
 [Lab 8: Create and test GraphQL Proxy
-API](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab8)
+API](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab8)
 
-[Lab 9: Creating GraphQL API with StepZen](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab9)
+[Lab 9: Creating GraphQL API with StepZen](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab9)
 
 Prerequisites: Labs 1-4
 
@@ -258,7 +258,7 @@ API definition.
 
     ![](images/tutorial_html_ebb6419fc4fb979a.png)
 
-3.  Download the [calculate.wsdl](https://raw.githubusercontent.com/ibm-ecosystem-lab/APICv10/main/calculate.wsdl) and 
+3.  Download the [calculate.wsdl](https://raw.githubusercontent.com/glenchristian/APICv10/main/calculate.wsdl) and 
 	then Drag/Drop or upload the downloaded [[calculate.wsdl]] from your machine.
 
     ![](images/tutorial_html_e10ec45733dfce99.png)
@@ -411,7 +411,7 @@ existing OpenAPI definition.
 	![](images/tutorial_html_5515164592670a5f.png)
 
 3.  You will need logistics.yaml file for this step. From another browser window download the file using this link
-    [logistics.yaml](https://raw.githubusercontent.com/ibm-ecosystem-lab/APICv10/main/logistics.yaml)
+    [logistics.yaml](https://raw.githubusercontent.com/glenchristian/APICv10/main/logistics.yaml)
 
     Drag/Drop or Browse the downloaded logistics.yaml file in the [[Import from file]] window.
 
@@ -728,5 +728,5 @@ takeaways:
 -   Use GatewayScript directly within an API assembly.
 
 Continue with the APIC Workshop Series! Go
-to [APIC Workshop Lab 6 - Working with API Products](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab6))] to
+to [APIC Workshop Lab 6 - Working with API Products](https://github.com/glenchristian/APICv10/tree/main/instructions/Lab6))] to
 learn about bundling the API's into a Product and publishing it to the consumer portal.

@@ -60,7 +60,7 @@ cluster and you have been tasked to appropriately configure the environments. No
 
 ### Hints
 
-1) [deposit.yaml](https://github.com/ibm-ecosystem-lab/APICv10/blob/main/Misc/Exercises/deposit.yaml) can be downloaded from here.
+1) [deposit.yaml](https://github.com/glenchristian/APICv10/blob/main/Misc/Exercises/deposit.yaml) can be downloaded from here.
 
 2) Use below information for configuring Open LDAP registry:
 
