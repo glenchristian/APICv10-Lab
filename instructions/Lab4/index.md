@@ -305,8 +305,3 @@ your API. Throughout the tutorial, you explored the key takeaways:   
 -   Supercede the Old Product.
 
 -   Test Your OAuth API in the Developer Portal.
-
-Continue the APIC Workshop Series! Go to[ APIC Workshop Lab 5 - Advanced API
-Assembly](https://github.com/glenchristian/APICv10-Lab/tree/main/instructions/Lab5) to
-learn about adding business logic to the API Gateway through the use of
-policies. 
