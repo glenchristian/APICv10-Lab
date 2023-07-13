@@ -207,13 +207,13 @@ will configure the proxy call to invoke the endpoint.
     targets for the service.
 
 3.  In the **[Property value]** text field,
-    type `http://hotelreview-http-ace.apps.ocp-060001q8qm-ada2.cloud.techzone.ibm.com/`
+    type `http://hotelreview-http-ace.cp4i-automation-685c4d909dba5536870f4da931535b5a-0000.us-south.containers.appdomain.cloud/`
 
 4.  Click Add in the [[Catalog Properties]] and select Choose the [Sandbox] for the name and click Create.
 
 5.  Choose [[Sandbox]] and
     for the target-url
-    type `http://hotelreview-http-ace.apps.ocp-060001q8qm-ada2.cloud.techzone.ibm.com/`
+    type `http://hotelreview-http-ace.cp4i-automation-685c4d909dba5536870f4da931535b5a-0000.us-south.containers.appdomain.cloud/`
 
 ![](images/tutorial_html_f977429f6db6091a.png)
 
