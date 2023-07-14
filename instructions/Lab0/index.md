@@ -9,7 +9,7 @@ In this tutorial, you will explore the following capabilities:
 
 -   Access the Cloud Pak Console. 
 
-- 	Access the API Connect Cloud Manager Console.
+-   Access the API Connect Cloud Manager Console.
 
 -   Configure an Email server for notifications.
 
@@ -46,75 +46,42 @@ API](https://github.com/glenchristian/APICv10-Lab/tree/main/instructions/Lab3)
 [Lab 4 : Use Lifecycle Controls to Version Your
 API](https://github.com/glenchristian/APICv10-Lab/tree/main/instructions/Lab4)
 
- Login to API Connect Cloud Manager
-===========================================================================================
-
-1. Open a browser window and login to the Cloud Pak Console with the url
-   and credentials provided by the instructor.
-
-	![](images/cloud_pak_login.png)
-	
-2. 	From the Home screen of the cloud pak console, click on the **Integration instances**.
-	
-	![](images/api_management.png)
-	
-3. You will see instances of API Gateway, API Manager and API management Administration (Cloud Manager).
-	Click on [[apic-min]] at API management administration to access the Cloud manager console.
-
-	![](images/cloud_manager.png)
-	
-4. Log in to the Cloud Manager console using the **Common Services User Registry** user registry (if prompted).
-
-	![](images/cloud_manager_login.png)
-	
-5. You will be able to see cloud manager console home screen as shown below.
-
-	![](images/cloud_manager_home.png)
-
+ 
  Login to API Connect
 ===========================================================================================
 
 1. Open your email inbox -> search email from API Connect with title
   "Your API Connect trial is ready" -> Click Access Trial
 
- 	![](images/access_trial.jpeg)
+ 	![](images/access_trial.jpg)
    
+2. Login using your IBM Id that was used in the API Connect trial registration
+
+	![](images/login_ibmid.jpg)
+
+3. After login, you will arrived at API Connect main page. Toggle the show more link to hide
+   the picture for better viewing
+   
+	![](images/homepage.jpg)
 
 
- Configure an Email Server
-===========================================================================================
-	
-1. Click Resources icon in the left navigation menu or Manage Resources tile.
 
-2. Cick Notifications and then Click Dummy mail server.
-
-	![](images/notifications_email.png)
-	
-3. For the Address, enter `smtp-relay.sendinblue.com`
-	Port, enter `587`
-	Authenticate user, enter `apic.vest@gmail.com`
-	Authenticate password will be provided by the instructor as shown below.
-	
-	![](images/email_configuration.png)	
-	
-4. Scroll down and click **Test email**.
-   Enter your email address and click send email. 	
-	
-	![](images/test_email.png)	
-	
-	Make sure that the email is sent successfully and click **Save**.
-	
  Configure sender email address
 ===========================================================================================
 
-1. Click on admin in the top navigation and select My Account.
+1. From mainpage click Manage Settings 
 
-	![](images/admin_myaccount.png)	
+	![](images/manage_setting.jpg)	
 
-2. Set the email address `apicvest@apiconnect.com` and Click **Save**.	
+2. Click notifications -> Turn On customization slider -> then click Edit
 
-	![](images/admin_account_email.png)	
+ 	![](images/setting_email_sender.jpg)	
+   
+3. Fill the name **APIC Workshop**, email address **apicworkshop@apiconnect.com** then click **Save**
 
+	![](images/save_email_sender.jpg)	
+
+ 
  Create a Provider Organization
 ===========================================================================================
 
