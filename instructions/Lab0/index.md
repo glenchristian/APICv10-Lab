@@ -70,7 +70,17 @@ API](https://github.com/glenchristian/APICv10-Lab/tree/main/instructions/Lab4)
 5. You will be able to see cloud manager console home screen as shown below.
 
 	![](images/cloud_manager_home.png)
-	
+
+ Login to API Connect
+===========================================================================================
+
+1. Open your email inbox -> search email from API Connect with title
+  "Your API Connect trial is ready" -> Click Access Trial
+
+ 	![](images/access_trial.jpeg)
+   
+
+
  Configure an Email Server
 ===========================================================================================
 	
