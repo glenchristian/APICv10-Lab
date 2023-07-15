@@ -1,19 +1,16 @@
 **APIC Workshop Lab 0 - Get Started**
 
-In this lab, you will get started with Lab environment and create  
-a Provider Organization.
+In this lab, you will get started with Lab environment and configure email notifications  
+
 
 In this tutorial, you will explore the following capabilities:
 
--   Access the Lab environment.
+-   Access the Lab environment. 
 
--   Access the Cloud Pak Console. 
+-   Access the API Connect.
 
--   Access the API Connect Cloud Manager Console.
-
--   Configure an Email server for notifications.
-
--   Create a Provider Organization.
+-   Configure an Email for notifications.
+  
 
  APIC Workshop Series
 ====================================================================================================================================================================
@@ -25,9 +22,8 @@ to create a successful API strategy. There are 9 labs and each is 30
 minutes long. Make sure you choose enough time in your reservation to
 get through all the labs! 
 
-[NOTE: ]**[This demo environment contains a
-full API Connect installation in Cloud Pak for Integration. The login
-information to the APIC cluster will be sent in a separate email when
+[NOTE: ]**[This demo environment using API Connect on AWS. The login
+information to the API Connect will be sent in an  email when
 you reserve the instance. Use Google Chrome, Firefox or Microsoft Edge
 to access the cluster using the credentials supplied. Make sure you
 login using Common Services registry.]**
@@ -80,28 +76,7 @@ API](https://github.com/glenchristian/APICv10-Lab/tree/main/instructions/Lab4)
 3. Fill the name **APIC Workshop**, email address **apicworkshop@apiconnect.com** then click **Save**
 
 	![](images/save_email_sender.jpg)	
-
- 
- Create a Provider Organization
-===========================================================================================
-
-1. Click on Provider Organization icon in the left navigation menu OR 
-   Click on Manage Organizations tile from the Cloud Manager console Home.
-   
-2. Click [[Add-\>Create organization]] to create the provider organization.
-   
-   ![](images/provider_org.png)
-
-3. For the Title, enter `VEST`
-   Select [[Common services user registry]] for user registry.
-   Type `admin` for the existing username.
-   Click **Create**
-   
-   ![](images/provider_org_create.png)   
-
-7. Provider Organization should be created successfully as shown below.   
-
-   ![](images/provider_org_cm.png)      
+    
 
  Summary
 =============================================================
@@ -111,13 +86,9 @@ Throughout the tutorial, you explored the key takeaways:
 
 -   Access the Lab environment.
 
--   Access the Cloud Pak Console. 
+-   Access the API Connect.
 
-- 	Access the API Connect Cloud Manager Console.
-
--   Configure an Email server for notifications.
-
--   Create a Provider Organization.
+-   Configure an Email for notifications.
 
 Continue the APIC Workshop! Go to [APIC Workshop Lab 1 - Create and Secure an API](https://github.com/glenchristian/APICv10-Lab/tree/main/instructions/Lab1) to
 learn how to create and secure a new API using API Connect.
