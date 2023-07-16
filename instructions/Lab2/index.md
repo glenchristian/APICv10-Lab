@@ -16,6 +16,8 @@ In this tutorial, you will explore the following key capabilities:
 
 -   Test API in the Developer Portal
 
+-   Get know basic configure Developer Portal
+
  APIC Workshop Series
 ==================================================================================================================================================================================================================
 
@@ -222,6 +224,30 @@ and return here to test again.]**
 
 ![](images/tutorial_html_1b2581520ef305f.png)
 
+  Modify Logo Portal Developer
+==========================================================================
+API Connect enables you to modify the Portal Developer. In this session, 
+you will be guided to open the admin page on the portal and update the logo on the Portal Developer.
+
+1.  Relogin on page portal developer and choose **admin** session.
+
+    ![](images/tutorial_html_z9830850c1b13f9c1.png)
+
+2.  After login you will difference between previous page on header tool
+
+    ![](images/tutorial_html_z9830850c1b13f9c2.png)
+
+3.  To update logo appearance, click **appearance** -> **settings** -> **connect_theme**
+    ![](images/tutorial_html_z9830850c1b13f9c3.png)
+
+4.  Choose **Logo Image**, uncheck it and upload your logo. 
+After that choose **Favicon**, uncheck it and upload your new icon.   
+    ![](images/tutorial_html_z9830850c1b13f9c4.png)
+
+5.  Click **Save configuration**
+
+6.  Check the result on **Home Page**.
+
  Summary
 ==============================================================
 
@@ -235,6 +261,8 @@ Throughout the tutorial, you explored the key takeaways: 
 -   Create App and Subscribe to Plan
 
 -   Test API in Developer Portal. 
+
+-   Get know basic configure Developer Portal 
 
 Continue the APIC Workshop Series! Go to [APIC Workshop Lab 3 - Add OAuth
 Security to your
