@@ -54,46 +54,33 @@ API](https://github.com/glenchristian/APICv10-Lab/tree/main/instructions/Lab4)
 First, we will download the OpenApi file for the existing REST service
 for HotelReview. Then, we will import it to the online workspace.
 
-1. 	Login to the Cloud pak console (covered in Lab0).
-	From the Home screen of the cloud pak console, click on the **Integration instances**.
-	
-	![](images/api_management.png)
-	
-2. You will see instances of API Gateway, API Manager and API management.
-	Click on [[apic-min]] at API management to access the API manager console.
-
-	![](images/api_manager.png)
-
-3.  Open a browser window to the API Manager Portal. If the screen
-    displays [[\"Your connection is not
-    private\"]] click
-    Advanced, and then Accept the to continue. Log in with the username
+1.  Login to the API Manager Portal. Log in with the username
     ad credentials supplied with Common services user registry.
 
     ![](images/tutorial_html_c7010880ec6f2b94.png)
 
-4.  Click on the [[Develop APIs and
+2.  Click on the [[Develop APIs and
     Products]] tile
     to enter the online development workspace.
 
     ![](images/tutorial_html_61b4022571d0a4a3.png)  
 
-5.  Now you are in the home screen of the online developer tool. From
+3.  Now you are in the home screen of the online developer tool. From
     here, you can begin to create APIs and Products.
 
     ![](images/tutorial_html_333c6b76e2638b45.png)  
 
-6.  Click [[ADD-\>API.]]
+4.  Click [[ADD-\>API]]
 
     ![](images/tutorial_html_993047b3f798317c.png)  
 
-7.  On the next screen, select [[Existing OpenAPI]] under
+5.  On the next screen, select [[Existing OpenAPI]] under
     Import, as in the image below. Then
     click **[Next.]**
 
     ![](images/tutorial_html_b219e12b9ba30a1c.png)  
 
-8.  Now download the `HotelReview.yaml` 
+6.  Now download the `HotelReview.yaml` 
     file in the git repository using the following command.
 
     ```
@@ -109,13 +96,13 @@ for HotelReview. Then, we will import it to the online workspace.
 
     ![](images/tutorial_html_64514a49c35e90d4.png)  
 
-9.  **[Do not ]** select **[Activate
+7.  **[Do not ]** select **[Activate
     API]**.
     Click [[Next]].
 
     ![](images/tutorial_html_3e51d8ec0929f2b5.png)  
 
-10.  The API should be imported successfully as shown in the image below.
+8.  The API should be imported successfully as shown in the image below.
     Click [[Edit
     API]].
 
