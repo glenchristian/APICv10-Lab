@@ -171,7 +171,7 @@ your OAuth 2.0 provider.
 
 1.  From the Develop home page, click \`**hotelreview 2.0.0**\`
 
-2.  Navigate to the **[Security Scehmes]** section.
+2.  Navigate to the **[Security Schemes]** section.
 
 3.  Click [[Add]].
 
