@@ -175,7 +175,7 @@ your OAuth 2.0 provider.
 
 3.  Click [[Add]].
 
-4.  On the API Security Scehmes screen, enter the following:
+4.  On the API Security Schemes screen, enter the following:
 
     -   Name: `oauth-1`
 
